@@ -13,7 +13,7 @@
     },
     {
         "ticker":"HINDUNILVR",
-        "link": "https://www.moneycontrol.com/news/tags/hindustanunilever.html/news/"
+        "link": "https://www.moneycontrol.com/news/tags/hindustan-unilever.html/news/"
     },
     {
         "ticker":"HDFCBANK",
@@ -25,7 +25,7 @@
     },
     {
         "ticker":"TATASTEEL",
-        "link": "https://www.moneycontrol.com/news/tags/tatasteel.html/news/"
+        "link": "https://www.moneycontrol.com/news/tags/tata-steel.html/news/"
     },
     {
         "ticker":"ONGC",
@@ -33,7 +33,7 @@
     },
     {
         "ticker":"POWERGRID",
-        "link": "https://www.moneycontrol.com/news/tags/powergrid.html/news/"
+        "link": "https://www.moneycontrol.com/news/tags/power-grid.html/news/"
     },
     {
         "ticker":"TECHM",
